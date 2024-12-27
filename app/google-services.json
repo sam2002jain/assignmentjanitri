@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015027169830",
+    "project_id": "jainitri",
+    "storage_bucket": "jainitri.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015027169830:android:708f6a6141f1df31fe04e7",
+        "android_client_info": {
+          "package_name": "com.example.jainitri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJd2-_n3k6yH4jz9KbMBHHyBeAVuVcid0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
